@@ -21,13 +21,13 @@
         "2003" => 3
     );
 
-    $day_code = array(
-        "1" = 0,
-        "2" = 1,
-        "3" = 2,
-        "4" = 3,
-        "5" = 4,
-        "6" = 5,
-        "7" = 6
+    $day_ofweek_code = array(
+        "Sunday" => 0,
+        "Monday" => 1,
+        "Tuesday" => 2,
+        "Wednesday" => 3,
+        "Thursday" => 4,
+        "Friday" => 5,
+        "Saturday" => 6
     );
 ?>
